@@ -1,6 +1,6 @@
 # Middle Finger Cursor
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](middle-finger-user.css)
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-285959.svg)](MiddleFinger.user.css)
 
 When hovering over links `<a>`, summaries `<summary>` or buttons `<button>` will display the GTA V Middle Finger cursor instead.
 
